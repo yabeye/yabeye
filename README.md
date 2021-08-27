@@ -1,7 +1,5 @@
-#### Hi, there
-
-- 👋 Hi, I’m @yabeye
-- 👀 I’m interested in Mobile application and website development
-- 🌱 I’m currently learning Flutter and ReactJS
-- 💞️ I’m looking to collaborate on Both.
-
+## Hi there,
+👋 My name is Yeab.</br>
+🎒 I am a Software engineering student. <br>
+Working on Web and Mobile Application developement.<br>
+Interested in Artificial Intelligence(ML & DL), Math and Entrepreneurship.
