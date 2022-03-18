@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there👋, My name is Yeabsera Bekele. (Yeab)</h1>
 
-<h3 align="center">Software Engineer working on  both Web and Mobile application development.</h3>
+<h3 align="center">I am a Software Engineer working on  both Web and Mobile application development.</h3>
 
 
 
