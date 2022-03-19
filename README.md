@@ -2,7 +2,7 @@
 <img src="./assets/cover.png" height="250px" width="100%"/>
 
 
-<h1 align="center">Hi there👋, My name is Yeabsera Bekele. (Yeab)</h1>
+<h1 align="center">Hello 👋, My name is Yeabsera Bekele. (Yeab)</h1>
 
 <h3 align="center">I am a Software Engineer working on  both Web and Mobile application development.</h3>
 
